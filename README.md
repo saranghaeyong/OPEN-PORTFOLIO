@@ -1,8 +1,6 @@
 <div align="center">
 
-# 🌐 OPEN PORTFOLIO
-
-### ✨ **[🚀 VISIT MY LIVE PORTFOLIO →](https://saranghaeyong.github.io/OPEN-PORTFOLIO/)**
+### 🌐 **[View My Live Portfolio](https://saranghaeyong.github.io/OPEN-PORTFOLIO/)**
 
 </div>
 
