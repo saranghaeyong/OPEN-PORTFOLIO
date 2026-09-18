@@ -1,4 +1,4 @@
-# 🌐 [LIVE WEBSITE — OPEN PORTFOLIO](https://saranghaeyong.github.io/newwwwww/)
+https://saranghaeyong.github.io/OPEN-PORTFOLIO/
 
 # Sarang R N — Cinematic Developer Portfolio
 
