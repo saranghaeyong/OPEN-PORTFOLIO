@@ -1,3 +1,5 @@
+# 🌐 [LIVE WEBSITE — OPEN PORTFOLIO](https://saranghaeyong.github.io/newwwwww/)
+
 # Sarang R N — Cinematic Developer Portfolio
 
 A cinematic, anime-inspired personal portfolio designed for **Sarang R N**, MCA Graduate specializing in Software Development, Python, and Machine Learning. The portfolio combines dark cyberpunk aesthetics, ambient digital particle effects, and an interactive AI research telemetry dashboard showcasing the flagship capstone project on Phishing Detection with LLM & CNN.
