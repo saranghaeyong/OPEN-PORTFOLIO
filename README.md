@@ -1,4 +1,10 @@
-https://saranghaeyong.github.io/OPEN-PORTFOLIO/
+<div align="center">
+
+# 🌐 OPEN PORTFOLIO
+
+### ✨ **[🚀 VISIT MY LIVE PORTFOLIO →](https://saranghaeyong.github.io/OPEN-PORTFOLIO/)**
+
+</div>
 
 # Sarang R N — Cinematic Developer Portfolio
 
